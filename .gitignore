@@ -1,0 +1,73 @@
+# ========================
+# Python
+# ========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+*.manifest
+*.spec
+
+# ========================
+# Virtual Environment
+# ========================
+.env
+.venv/
+venv/
+env/
+env.bak/
+.Python
+
+# ========================
+# Flask / Instance
+# ========================
+instance/
+*.db
+*.sqlite3
+data/
+migrations/
+*.log
+
+# ========================
+# Environment / Config Files
+# ========================
+.env.local
+.env.development
+.env.production
+.env.test
+config.py
+*.cfg
+
+# ========================
+# Cache / Testing
+# ========================
+.pytest_cache/
+.mypy_cache/
+coverage/
+htmlcov/
+
+# ========================
+# Build / Distribution
+# ========================
+build/
+dist/
+*.egg-info/
+*.manifest
+*.spec
+
+# ========================
+# IDE / Editor
+# ========================
+.vscode/
+.idea/
+*.code-workspace
+
+# ========================
+# OS
+# ========================
+.DS_Store
+Thumbs.db
+Desktop.ini

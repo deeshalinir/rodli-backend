@@ -1,7 +1,0 @@
-flask
-flask_sqlalchemy
-flask_cors
-werkzeug
-PyJWT
-python-dotenv
-psycopg2-binary     # if using PostgreSQL
